@@ -14,5 +14,5 @@ npm start
 
 ## API
 
-[https://github.com/ihorriabenko](https://github.com/ihorriabenko)
+[https://github.com/ihorriabenko/ueat-api](https://github.com/ihorriabenko/ueat-api)
 
