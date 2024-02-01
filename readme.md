@@ -19,10 +19,10 @@ npm start
 
 ## Screens
 
-<img src="/assets/images/screens/0.png" width="400" height="800"/>
-<img src="/assets/images/screens/1.png" width="400" height="800"/>
-<img src="/assets/images/screens/2.png" width="400" height="800"/>
-<img src="/assets/images/screens/3.png" width="400" height="800"/>
-<img src="/assets/images/screens/4.png" width="400" height="800"/>
-<img src="/assets/images/screens/5.png" width="400" height="800"/>
-<img src="/assets/images/screens/6.png" width="400" height="800"/>
+<img src="/assets/images/screens/0.png" width="350" height="700"/>
+<img src="/assets/images/screens/1.png" width="350" height="700"/>
+<img src="/assets/images/screens/2.png" width="350" height="700"/>
+<img src="/assets/images/screens/3.png" width="350" height="700"/>
+<img src="/assets/images/screens/4.png" width="350" height="700"/>
+<img src="/assets/images/screens/5.png" width="350" height="700"/>
+<img src="/assets/images/screens/6.png" width="350" height="700"/>
