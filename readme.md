@@ -19,10 +19,10 @@ npm start
 
 ## Screens
 
-![](/assets/images/screens/0.png)
-![](/assets/images/screens/1.png)
-![](/assets/images/screens/2.png)
-![](/assets/images/screens/3.png)
-![](/assets/images/screens/4.png)
-![](/assets/images/screens/5.png)
-![](/assets/images/screens/6.png)
+<img src="/assets/images/screens/0.png" width="190" height="390"/>
+<img src="/assets/images/screens/1.png" width="190" height="390"/>
+<img src="/assets/images/screens/2.png" width="190" height="390"/>
+<img src="/assets/images/screens/3.png" width="190" height="390"/>
+<img src="/assets/images/screens/4.png" width="190" height="390"/>
+<img src="/assets/images/screens/5.png" width="190" height="390"/>
+<img src="/assets/images/screens/6.png" width="190" height="390"/>
